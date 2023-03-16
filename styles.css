@@ -1,0 +1,21 @@
+body {
+    background-color:#da9ff9 ;
+}
+
+div {
+    border: 1px dashed #11698e;
+    background-color:#e7d9ea;
+    margin: 30px;
+}
+
+h1 {
+    margin-left: 50px;
+    color: #111d5e;
+    font-size: 60px;
+}
+
+.list {
+    font-size: 30px;
+    color: #111d5e;
+    margin-left: 30px;
+}
